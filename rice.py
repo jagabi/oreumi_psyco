@@ -1,0 +1,1 @@
+print("rice rice rice")
